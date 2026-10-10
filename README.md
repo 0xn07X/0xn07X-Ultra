@@ -1,5 +1,5 @@
 # 0xn07X-Ultrа
-MALWARE BIOS KILLER! 0xn07X ULTRA!
+MALWARE WINDOWS KILLER! 0xn07X ULTRA!
 
 
 `# 0xn07X — Research Project on Wipers`
